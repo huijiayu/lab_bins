@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * NETIDS
+ * sp285
+ * hy91
+ */
 /**
  * Represents a collection of files; how many it can hold is limited by its capacity.
  */
